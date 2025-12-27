@@ -1,0 +1,1 @@
+-e .[devel-devscripts,devel-tests,cncf.kubernetes]
